@@ -3,8 +3,7 @@
   int main(){
   	int a = 0, b;
   
-  	b = a + 1;
-  	print("%d", b);
+  	b = a;
   
   	return 0;
   }
